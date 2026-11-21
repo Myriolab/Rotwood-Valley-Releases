@@ -1,15 +1,19 @@
-# Rotwood Valley — téléchargements
+# Rotwood Valley — Downloads
 
-Jeu de survie solo à la troisième personne, macOS et Windows, par Myriolab.
+A single-player, third-person survival game for macOS and Windows, by Myriolab.
 
-- Site officiel : https://rotwood.myriolab.com
-- Dernière version : [Releases](https://github.com/Myriolab/Rotwood-Valley-Releases/releases/latest)
+- Official website: https://rotwood.myriolab.com
+- Latest version: [Releases](https://github.com/Myriolab/Rotwood-Valley-Releases/releases/latest)
 
-Ce dépôt ne contient que les fichiers publiés (jeu complet et correctifs de mise à jour signés). Le jeu se met à jour automatiquement au lancement.
+This repository only hosts the published files: full game builds and signed update patches. The game updates itself automatically when it starts.
 
 ## Installation
 
-- **macOS** : décompresser `RotwoodValley-macos.zip`, glisser l'application dans Applications. Au premier lancement, clic droit › Ouvrir (application non notariée).
-- **Windows** : décompresser `RotwoodValley-windows.zip` et lancer `RotwoodValley.exe`. Si SmartScreen s'affiche : « Informations complémentaires » › « Exécuter quand même ».
+- **macOS**: unzip `RotwoodValley-macos.zip` and drag the app into Applications. On first launch, right-click the app › Open (the app is not notarized yet).
+- **Windows**: unzip `RotwoodValley-windows.zip` and run `RotwoodValley.exe`. If SmartScreen appears: “More info” › “Run anyway”.
 
-© 2026 Myriolab. Crédits des ressources tierces : https://rotwood.myriolab.com/credits/
+## Privacy
+
+No account is ever required. The game sends anonymous usage statistics only (no personal data, no IP address stored), and you can turn them off in Options › Game.
+
+© 2026 Myriolab. Third-party asset credits: https://rotwood.myriolab.com/en/credits/
